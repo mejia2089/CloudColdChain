@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Cold Chain Monitoring": {
+            "applicationId": "QZ7GMq6hfojU9DwaF9HPmh1VG7cwASaOrGGTlGVX", 
+            "masterKey": "PedJKj4GCa0ebJc7Yqo7UkISLOfZaya6Gal09zvA"
+        }, 
+        "_default": {
+            "link": "Cold Chain Monitoring"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.2"
+    }
+}
